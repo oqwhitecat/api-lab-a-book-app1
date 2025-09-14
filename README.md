@@ -38,4 +38,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 **Homepage**
 https://github.com/oqwhitecat/api-lab-a-book-app1/blob/main/public/screenshots/homepage.png
 
+**Book Detail Page**
+https://github.com/oqwhitecat/api-lab-a-book-app1/blob/main/public/screenshots/detail-page1.png
+
+https://github.com/oqwhitecat/api-lab-a-book-app1/blob/main/public/screenshots/detail-page2.png
+
+https://github.com/oqwhitecat/api-lab-a-book-app1/blob/main/public/screenshots/detail-page3.png
+
+https://github.com/oqwhitecat/api-lab-a-book-app1/blob/main/public/screenshots/detail-page4.png
 
